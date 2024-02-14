@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrImageSearch</string>
+    <string name="label_search">Search Image</string>
+    <string name="error_action">OK</string>
+    <string name="error_title">Whoop\n</string>
+    <string name="cd_clear_search">Clear Search Text</string>
+    <string name="no_internet_connection">Please check your internet connection</string>
+</resources>
